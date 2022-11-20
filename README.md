@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @aaronsharon
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently pursuing Engineering..
+- 💞️ I’m looking to collaborate on web development
+- 📫 You can reach me,
+- t.me/aaronsharon
 
 <!---
 aaronsharon/aaronsharon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
