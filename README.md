@@ -10,4 +10,4 @@ aaronsharon/aaronsharon is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<a href="https://app.daily.dev/aaronsharon"><img src="https://api.daily.dev/devcards/c5d5dc5d085041c0ba081a8801c027f8.png?r=52b" width="400" alt="Aaron Sharon Dsouza's Dev Card"/></a>
+<a href="https://app.daily.dev/aaronsharon"><img src="https://api.daily.dev/devcards/v2/D31Wc2fQ6SaKrXAPo3CGS.png?r=1v7&type=wide" width="652" alt="Aaron Sharon Dsouza's Dev Card"/></a>
