@@ -2,8 +2,8 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently pursuing Engineering..
 - 💞️ I’m looking to collaborate on web development
-- 📫 You can reach me, "https://aaronsharon.oneshorts.in/"
-- t.me/aaronsharon
+- 📫 You can reach me, "<a href="https://www.linkedin.com/in/aaron-sharon-dsouza/">LinkedIn</a>"
+
 
 <!---
 aaronsharon/aaronsharon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
